@@ -1,0 +1,1 @@
+<!-- https://github.com/Evavic44/adocs -->
